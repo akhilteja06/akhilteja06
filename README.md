@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Kasula Akhil Teja</h1>
-<h3 align="center">A passionate for Programming Languages from India</h3>
+<h3 align="center">A passionate for DevOps from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=akhilteja06&label=Profile%20views&color=0e75b6&style=flat" alt="akhilteja06" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akhilteja06" alt="akhilteja06" /></a> </p>
 
-- 🌱 I’m currently learning **html5,css3,javascript,java**
+- 🌱 I’m currently learning **Docker,jenkins,K8s,Ansible,Azure,aws**
 
 - 💬 Ask me about **python**
 
